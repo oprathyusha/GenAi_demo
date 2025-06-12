@@ -1,4 +1,4 @@
-apple 240
-mango 100
-grapes 80
-banana 35
+apple 280
+mango 120
+grapes 90
+banana 40
