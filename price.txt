@@ -1,0 +1,4 @@
+apple 200
+mango 90
+grapes 60
+banana 30
